@@ -1,0 +1,114 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+  body {
+    background: linear-gradient(to right, #d0dde2, rgb(233, 233, 218));
+  }
+
+  
+  nav {
+    height: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+    background: rgb(23, 1, 65);
+    color: rgb(202, 194, 194);
+    font-size: 24px; 
+    padding: 0 20px; 
+  }
+
+
+ .imgcamera img {height: 550px;
+       padding: 20px;
+  }
+
+  .texto {
+    justify-content: center;
+    white-space: 200px;
+    font-size: 25px;
+    display: flex;
+    
+  
+}
+
+.imagem {
+    max-width: 100%; 
+    height: auto; 
+    margin-right: 10px; 
+}
+
+
+  .h1{font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+  }
+  .discount-banner {
+    background-color: #f30a2d; 
+    color: #1d1068; 
+    text-align:left ;
+    padding: 20px; 
+    border: 1px solid #f7e5e7; 
+    border-radius: 5px;
+    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif; 
+    font-size: 24px; 
+    margin: 20px 0; 
+  }
+
+  
+  .texto {
+    align-items: end;
+    width: 55%;
+    padding: 30px; 
+    
+}
+
+.container {
+display: flex;
+justify-content: center;
+
+}
+
+
+.circulo{
+  color: rgb(24, 1, 59);
+  display:flex;
+  list-style: none ;
+  gap: 100px;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.img {
+
+  justify-content: center;
+  display: flex;
+  gap: 20px
+
+
+}
+
+.img img {
+  width:300px;
+  height: auto;
+  object-fit: cover;
+  border:1px solid #d0dde2
+
+ 
+
+}
+
+.segundoh2{
+  display: flex;
+  font-family:system-ui, -apple-system, Helvetica, Arial, sans-serif; 
+  padding:20px
+ 
+}
+ 
